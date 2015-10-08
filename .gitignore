@@ -1,0 +1,7 @@
+build
+build-cordova
+node_modules
+webpack-assets.json
+.idea/
+npm-debug.log
+*.swp
